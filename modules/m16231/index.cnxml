@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Use the Subscribe to Threads Function to Notify of Questions on the Discussion Board - Managing your Distance Course</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>34681cf2-698b-448b-bba1-42893ff937b2</md:uuid>
+</metadata>
+  <content>
+    <para id="element-912">One of the practices we recommend is to create special discussion boards to house questions about the course (often labeled as FAQs or Q and A). You can create a single forum for questions or categorize questions about different aspects of the course into separate forums. Once you create the forum(s), you can use another feature to notify you via email each time a student posts to the board. This feature can save you time and effort by only going to these boards when you know you have a question to answer.
+
+ </para><para id="element-101">When you create this Forum, be sure to go to Forum Settings and enable Allow members to subscribe to threads. DO NOT enable Allow members to create new threads. After creating a forum for questions, post the first thread to the forum. The one we have found most useful is "Submit all questions by clicking on this thread and replying. Your reply to the thread will be your question about the course." We also suggest you disable the students' ability to post new threads to this forum. </para><para id="element-549">Make sure you subscribe to this thread in order to be notified via email when someone posts a question about the course.</para><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>

@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tracking Trends and Notifying Students in the Distance Course - Managing your Distance Course</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>99a3a389-d3ac-49fd-b58a-a661ae694c5a</md:uuid>
+</metadata>
+  <content>
+    <para id="element-54">The Early Warning System (EWS) is a feature that can help you track trends in student performance and allow you to communicate with students about these trends. The EWS allows you to establish rules (predefined criterion) for grades, due dates, and last access.
+
+</para><list id="element-206" list-type="bulleted"><item>Grade Rule: Identifies when student performance on an item is equal to or below a certain level.</item>
+	<item>Due Date: Identifies when a student does not complete course work when it is due (only works with Assignments or Assessments created through Blackboard. Due Date Rules cannot be created for manually graded items). 
+</item>
+	<item>Last Access: Identifies the last time a Student accessed the course online.</item>
+ 
+ 
+</list><para id="element-605">If a student meets the critera for a rule, instructors have the option to email students a notification by clicking on their user name. A comprehensive log tracks the notification activity for each course as initiated through the EWS </para><para id="element-261">The Performance Dashboard is a good location to get information on student access to the course, to check if students have reviewed material (if you used the Review feature), and to see detailed information on the discussion board (average, minimum, and maximum post lengths) in a central location. This is a useful feature if you have length requirements for the discussion board. The biggest advantage to this feature is that all students in the course can be accessed for review rather than checking data on an individual basis. </para><list id="element-909" list-type="bulleted"><item>Last Course Access:  This column shows the date that the student last accessed the course.</item>
+	<item>Days Since Last Course Access:  This column gives a quick view of how many days have passed since the student last accessed the course.</item>
+	<item>Review Status: This column shows the number of items marked as reviewed by each student.</item>
+<item>Adaptive Release: This column links to any Adaptive Release information in the course and displays what course information and areas are currently available to the student.</item>
+<item>Discussion Board: This column lists the number of discussion posts by each student. Important: We have noticed inaccuracies in the post counts presented through the performance dashboard, so this should really just be used as a starting point for assessing posting information for the students.</item>
+<item>Early Warning System:  If you are using the Early Warning System in your course, this column will show what rules the student has met.</item>
+<item>View Grades: This allows you to go to each student's grade list, which is the same gradebook user information from the gradebook.</item>
+
+
+ 
+ 
+
+ 
+</list><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>

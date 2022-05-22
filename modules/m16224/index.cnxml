@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Managing Assessments for the Distance Course</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9f4ae8b5-b0f5-4382-8010-6b8bce641592</md:uuid>
+</metadata>
+  <content>
+    <para id="element-812">Creating and managing assessment for your course can be somewhat streamlined if you know how to take advantage of the tools available. The Pool Manager tool is an excellent resource for creating both exams and practice assessments. </para><para id="element-104">The Pool Manager allows you to create "pools" of questions that can then be distributed once, or many times, as exams and practice assessments.In addition, these pools can be copied between courses to make setting up your class for next semester easier. And, if you like, you can continue to add to these pools over several semesters to create a much more robust source for testing.
+
+ </para><para id="element-748">So, how do you use the Pool Manager? It works just like the Test Manager and Survey Manager, only you don't assign any points to the questions you create. You create your questions in Pool Manager and save them. Then, when you want to create an exam or practice assessment, you use Test Manager or Survey Manager and select the option to create questions "from a pool or assessment". This will then allow you to select the appropriate pool of questions, determine what kinds of questions you want to use (multiple choice, short answer, etc.), and, if you are creating a test, assign a point value.  </para><para id="element-644">One of the most beneficial options of using the Pool Manager is that it allows you to utilize the Random Block function in Test Manager or Survey Manager. This option allows you to pull a certain number of questions at random from a pool. The benefits of this for instructional purposes is that each student will receive an individualized exam. Or, if you are creating a practice exam, the student will receive a different selection of the questions each time they take the exam, giving them a more well-rounded practice session.
+
+ </para><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>

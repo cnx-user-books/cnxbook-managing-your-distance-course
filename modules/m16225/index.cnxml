@@ -1,0 +1,13 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Managing the Gradebook for the Distance Course - Managing your Distance Course</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ec50ec45-9a4b-4734-909d-38164c0ff27a</md:uuid>
+</metadata>
+  <content>
+    <para id="element-142">Blackboard’s Gradebook can make your life easier but be aware that it doesn’t function exactly like a gradebook based on a spreadsheet. It takes some getting used to but once you learn how to call for what you want – life is much easier. If you don’t learn the features, you will need to scroll repeatedly to locate and input grades into the correct locations. 
+
+ </para><para id="element-927">The Gradebook operates best using categories. Each column in the Gradebook can use a category (some are assigned by you and others are assigned by Blackboard) for sorting and filtering purposes. If you create an exam or choose to grade discussion forums, Blackboard will automatically create categories and columns for you in the Gradebook. If you want to assign categories, a number of predetermined categories are available for your use or you can create your own categories using Manage Gradebook Categories.  </para><para id="element-880">The significance of categories is that you can sort and filter your gradebook by these categories. If you assign categories, Blackboard will group all similar categories together for you using Sort. You can use Filter to pull up only specific categories (meaning you do not have to see the rest of the gradebook).  </para><para id="element-160">How do you enter these categories? When you create an assignment using the assignment tool, you list title, points, and due date. Blackboard will automatically create a column in the Gradebook and categorize this as an assignment. Forum grade is the default category for discussion forums in the Gradebook. If you manually add an assignment to the Gradebook, you select the most appropriate category.</para><para id="element-528">As you develop assignments and examination, remember that category, date, possible points, title, and weight are all possible ways to sort Gradebook information. Having a plan in place to determine categories will assist you to make your Gradebook manageable. </para><para id="element-358">A quick way to sort users is to enter the first letter of the last name in the Filter Users by Last Name area. This allows you to quickly see all users whose last name begins with that letter to quickly locate a particular student. </para><para id="delete_me">
+       <!-- Insert module text here -->
+    </para>   
+  </content>
+  
+</document>
